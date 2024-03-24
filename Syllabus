@@ -1,0 +1,14 @@
+
+1. Write a program to simulate the following non-preemptive CPU scheduling algorithms to find turnaround time and waiting time.
+a) FCFS b) SJF c) Round Robin d) Priority
+2. Write a program to simulate producer-consumer problem using semaphores.
+3. Write a program to simulate the concept of Dining-Philosophers problem.
+4. Write a C-program to implement the file allocation technique. (Linked, Indexed or Contiguous)
+5. Write a program to simulate the following contiguous memory allocation techniques a) Worst-fit b) Best-fit c) First-fit
+6. Write a program to simulate deadlock avoidance using banker's algorithm.
+7. Write a program to simulate deadlock detection using safety algorithm.
+8. Write a program to simulate page replacement algorithms
+a) FIFO b) LRU c) LFU
+9. Write a program to simulate paging technique of memory management.
+10. Write a program to simulate the following Disk Scheduling Algorithms
+a) FCFS b) SCAN c) C-SCAN
