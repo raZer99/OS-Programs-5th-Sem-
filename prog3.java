@@ -44,7 +44,7 @@ public class prog3 {
         try{
             for(int i=0;i<5;i++){
                 threads[i].join();
-                threads[i].start(); //remember to start (don't be sad evrythng gonna be alright)
+                threads[i].start(); //remember to start ()
             }
         }
         catch(InterruptedException e){
